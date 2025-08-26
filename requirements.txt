@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit
+torch
+torchvision
+Pillow
+
+# Additional dependencies for machine learning and data processing
+# numpy - for numerical computations
+# pandas - for data manipulation and analysis
+# transformers - for pre-trained transformer models
+# opencv-python - for computer vision tasks
+# matplotlib - for plotting and visualization
+# scikit-learn - for additional ML utilities
+# tqdm - for progress bars
+# requests - for API calls and web requests
